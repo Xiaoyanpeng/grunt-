@@ -1,4 +1,4 @@
-# grunt-
+# grunt
 grunt使用模板
 ```
 module.exports = function (grunt) {
